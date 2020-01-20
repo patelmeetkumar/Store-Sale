@@ -1,0 +1,1 @@
+Create a program to add sale, remove sale, view sale, and edit sale.
